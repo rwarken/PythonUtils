@@ -1,7 +1,7 @@
 import os
 
 # Define a folder to iterate through the files recursively
-folder_path = 'E:/Studying/Python Projects/PythonUtils/XML-files/'
+folder_path = 'dir_path'
 
 
 def replace_first_letters(folder_path, text, text_size):

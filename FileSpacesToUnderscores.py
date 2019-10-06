@@ -1,6 +1,6 @@
 import os
 
-# Define a folder to iterate through the files recursively
+# Define a folder to iterate through the files recursively 
 folder_path = 'my_local_path/'
 
 

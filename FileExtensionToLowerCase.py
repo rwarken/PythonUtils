@@ -1,7 +1,7 @@
 import os
 
 # Define a folder to iterate through the files recursively
-folder_path = 'E:/Studying/Python Projects/PythonUtils/XML-files/'
+folder_path = 'dir_path'
 
 
 def replace_ext(folder_path, old_ext, new_ext):
